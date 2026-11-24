@@ -1,9 +1,16 @@
 # Analysis
 
-This directory is reserved for preregistration, synthetic data, analysis code, judge-reliability reports, and exploratory outputs.
+This directory contains preregistered analysis design and synthetic validation material. No human-subject data should be committed.
+
+## Current files
+
+- `pilot-analysis-plan.md`
+- `synthetic-transcript-and-judge-example.md`
+- `README.md`
 
 Before confirmatory analysis:
 
+- lock and timestamp the preregistration;
 - label primary and secondary outcomes;
 - preserve denominators;
 - report exclusions;
